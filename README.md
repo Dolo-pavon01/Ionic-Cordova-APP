@@ -40,13 +40,13 @@ To install and run the app locally, follow these steps:
 
 For Android:
 
-     ```bash
-    ionic cordova run android
+    ```bash
+      ionic cordova run android
     
 For iOS:
 
-     ```bash
-    ionic cordova run ios
+    ```bash
+      ionic cordova run ios
     
 ## Google Analytics 4 Usage
 We have set up GA4 to track events such as:
