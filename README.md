@@ -13,7 +13,7 @@ To install and run the app locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/Ionic-Cordova-APP.git
+   git clone https://github.com/Dolo-pavon01/Ionic-Cordova-APP.git
    cd Ionic-Cordova-APP
 
 2. **Install dependencies:**
