@@ -19,7 +19,6 @@ To install and run the app locally, follow these steps:
 2. **Install dependencies:**
 
     ```bash
-    Copy code
     npm install
 
 3. **Firebase Setup:**
@@ -30,27 +29,23 @@ To install and run the app locally, follow these steps:
 - Run the app in the browser (development mode):
 
    ```bash
-  Copy code
   ionic serve
 
 4. **Build the app for production:**
 
-   ```bash
-  Copy code
-  ionic build
+     ```bash
+    ionic build
 
 5. **Run the app on an emulator or device:**
 
 For Android:
 
      ```bash
-    Copy code
     ionic cordova run android
     
 For iOS:
 
      ```bash
-    Copy code
     ionic cordova run ios
     
 ## Google Analytics 4 Usage
