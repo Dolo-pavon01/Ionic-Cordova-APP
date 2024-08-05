@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "852719917849",
+    "project_id": "task-app-ionic-aed40",
+    "storage_bucket": "task-app-ionic-aed40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852719917849:android:7107bb445cf921b3e14388",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTGPlJvV1t3WMQ2WgOhZA2x0IONTSs2IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852719917849:android:79267ff5b12d2311e14388",
+        "android_client_info": {
+          "package_name": "ionic.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTGPlJvV1t3WMQ2WgOhZA2x0IONTSs2IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
